@@ -1,4 +1,4 @@
-🔹 Project 2: Rayleigh Fading Channel Simulation
+🔹 Project : Rayleigh Fading Channel Simulation
 🎯 Objective:
 Simulate a Rayleigh fading wireless channel to visualize how the signal strength varies due to multipath fading — a key challenge that RIS helps overcome.
 
