@@ -41,6 +41,8 @@ h(t)=
 
 📈 Output:
 Envelope plot: Shows how received signal strength fluctuates randomly over time.
+![Envelope_plot](https://github.com/user-attachments/assets/fcc87d3f-2454-429a-bcc8-2342ec567c83)
 
 Phase plot: Random walk behavior of signal phase.
+![Phase_Plot](https://github.com/user-attachments/assets/497dabe0-cec6-4482-99e9-d44c5dc01c96)
 
